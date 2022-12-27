@@ -1,2 +1,2 @@
 # born2beroot-project
-Project Born2beroot at 42 school.
+Project born2beroot at 42 school.
